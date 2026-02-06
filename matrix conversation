@@ -1,0 +1,6 @@
+mat <- matrix(1:8, ncol=4,nrow=2)
+print(mat)
+output:
+ [,1] [,2] [,3] [,4]
+[1,]    1    3    5    7
+[2,]    2    4    6    8
