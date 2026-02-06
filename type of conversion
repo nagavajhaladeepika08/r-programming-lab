@@ -1,0 +1,21 @@
+num_val <- 123.45
+char_val <- "456"
+log_val <- TRUE
+as.integer(num_val)    
+as.character(num_val) 
+as.numeric(char_val)  
+as.numeric(char_val)   
+as.integer("123")      
+as.logical("TRUE") 
+as.numeric(log_val) 
+as.character(log_val) 
+
+output: 
+123
+'123.45'
+456
+456
+123
+TRUE
+1
+'TRUE'
